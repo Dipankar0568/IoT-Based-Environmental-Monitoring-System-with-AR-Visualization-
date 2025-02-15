@@ -3,8 +3,6 @@
 ## 🚀 Overview
 Created an environmental monitoring system that tracks atmospheric conditions and presents the data using Augmented Reality (AR) for enhanced visualization.
 
-## 🤝 Contributors
-- **Dipankar Bagade**
 
 ## ✨ Features
 - 📡 **Real-Time Environmental Data**: Monitors temperature, humidity, and air quality.  
